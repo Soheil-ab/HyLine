@@ -1,6 +1,6 @@
 # HyLine
 
-HyLine is a Simple & Practical Flow Scheduling for Commodity Datacenters presented at IFIP Networking Conference 2018. (The HyLine paper can be accessed at: https://wp.nyu.edu/hyline/publications/).
+HyLine is a Simple & Practical Flow Scheduling for Commodity Datacenters presented at IFIP Networking Conference 2018. (The HyLine paper can be accessed at: https://wp.nyu.edu/hyline/publications/ or http://dl.ifip.org/db/conf/networking/networking2018/6A1-1570420822.pdf).
 
 Here is the ns-2 patch including HyLine, pFabric, and DCTCP. To use this patch, you need to first install ns2.34 using the provided instructions. Next, you can patch it and have mentioned schemes. There are also scripts (located in eval.tar.gz) for running the experiments.
 
